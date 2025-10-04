@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: spero-estimate
+    name: speroestimate
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
